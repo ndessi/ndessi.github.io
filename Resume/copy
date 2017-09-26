@@ -1,0 +1,59 @@
+<div id="page">
+  <div id="leftCol">
+    <div id="contact">
+      <img id="photo" src="">
+      <p class="about">
+        <center>
+          Netsanet Dessi<br>
+          San Francsico, CA
+        </center>
+      </p>
+    </div>
+    <div id="aboutDiv">
+      <h1 id="about-text">About</h1>
+      <div id="about">
+        <p class="about">My name is Netsanet Dessi. I am passionate and always ready to learn new technology. I am currently working as a cashier and customer service representative at one of San Francsico parking garages. I have over 15 years of experience with different parking managements. I consider my self a responsible person with the ability to learn quick, confident decision maker, easy-going, amiable personality.   </p>
+      </div>
+    </div>
+
+    <div id="hobbyDiv">
+      <h1 id="hobby-text">Hobbies</h1>
+      <div id="hobby">
+        <p class="about">I am good in computer technologies, make webpages by using basic coding languages HTML, CSS and Javascript. I like to solve puzzies to develop my problem soliving skills. Bicking is one of my favorite activity. I enjoy reading Bible, technolgy and story books.    </p>
+      </div>
+    </div>
+    <div id="skillsDiv">
+      <h1 id="skills-text">Skills</h1>
+      <div id="skills">
+       <p class="skills"> I have strong verbal, written and presentation skills. I am accurate and give attention to details. Solid partnerships with staffs to achieve goals in team oriented enviromens. I have critical thinking, decision making and problem solving skills.
+         Not too hard to adapt and able to work under pressure.
+   </div>
+  </div>
+  <div id="rightCol">
+    <div id="banner">
+      <img id="logo" src="http://software.kylediggs.com//logo/Logo.png">
+      <img id="wordMark" src="http://software.kylediggs.com//logo/wordMark.png">
+    </div>
+    <div class="material">
+      <h1>Work Experience</h1>
+      <h2>Graphic Design Internship</h2>
+      <p class="date">2013 - 2014</p>
+      <p class="content">A Graphic Design internship beneath Anthony Cioffi</p>
+      <p class="content">Put in hundreds of hours of design work and lessons with harsh critiqing</p>
+      <p class="content">Worked on projects alongside Mr.Cioffi from start to finish</p>
+      <p class="content">Designed and created 50+ assets to be used for production and sales</p>
+
+      <h2>6+ Years of Graphic Design Work</h2>
+      <p class="date" style="margin-left: calc(80% - 15px);">2007 - Present</p>
+      <p class="content">Have been working with the full Adobe Suite since the release of CS3</p>
+      <p class="content">Proficient in both Illustrator and Photoshop and can work very quickly and accurately in both</p>
+      <p class="content">Can build everything from promotional flyers, posters, and logos to full scale websites</p>
+
+      <h2>Web Design</h2>
+      <p class="date" style="margin-left: calc(80% - 15px);">2014 - Present</p>
+      <p class="content">Have taken courses in CSS animations and am confident in my HTML5 and CSS3 abilities</p>
+      <p class="content">Can create basic websites with nice animations and UI/UX fairly quickly while maintaining my own high standards for clients</p>
+
+    </div>
+  </div>
+</div>
